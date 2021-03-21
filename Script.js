@@ -8,3 +8,5 @@ function add(num1, num2){
 }
 
 add(3+6)
+
+console.log("Function from second branch")
